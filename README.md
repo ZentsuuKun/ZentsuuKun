@@ -1,4 +1,5 @@
-<img width="1000" height="35000" alt="BANNER" src="https://github.com/user-attachments/assets/16e95975-47ec-491b-881a-b568f4a4dab3" />
+
+![download (3)](https://github.com/user-attachments/assets/d2c28a04-0ed3-4457-af7e-011453287632)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([[https://facebook.com/Rodneyversalstudio](https://www.facebook.com/Rodneyversalstudio)](https://www.facebook.com/Rodneyversalstudio)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zentsuu__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Zentsuuu](https://www.linkedin.com/in/zentsuuu/)) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zentsuufps) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodney.onias123@gmail.com) 
