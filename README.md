@@ -1,5 +1,5 @@
 
-<img width="1000" height="350" alt="BANNER" src="https://github.com/user-attachments/assets/a7221ff8-ea03-409b-874f-d058915b37b9" />
+<img width="1000" height="300" alt="BANNER" src="https://github.com/user-attachments/assets/a7221ff8-ea03-409b-874f-d058915b37b9" />
 
 
 ## 🌐 Socials:
